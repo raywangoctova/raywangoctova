@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- #### 🔭 I’m currently working on the VA.gov Platform.
+- #### 💬 Ask me about Security, Governance, & Analytics, and Insights.
+
+
+
 <!--
 **raywangoctova/raywangoctova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
