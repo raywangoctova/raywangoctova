@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - #### 🔭 I’m currently working on the VA.gov Platform.
-- #### 💬 Ask me about Security, Governance, & Analytics, and Insights.
+- #### 💬 Ask me about Security.
 
 
 
